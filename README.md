@@ -31,6 +31,5 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-swift-nivel-1/alcanza-nuevos-niveles-de-dominio-en-swift
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGJu01CS7SgqA/learning-public-crop_675_1200/0/1695726146477?e=1696334400&v=beta&t=kj5OkxV9nDKdnBPn8vrI5KFZisoC47WEt9RYwf9EBCQ
-
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGJu01CS7SgqA/learning-public-crop_675_1200/0/1695726146477?e=1697011200&v=beta&t=ogJxeAd5x-6QY3xk48mo03hM7hjAU1IBjsIB5jB8rZY
 [1]: # (End of ES-Instruction ###############################################################################################)
