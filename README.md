@@ -30,6 +30,6 @@ Puedes clonarte este repositorio en tu ordenador local o bajarte el proyecto en 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/radostina-tachova-chergarska).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/domina-swift-nivel-1/alcanza-nuevos-niveles-de-dominio-en-swift
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGJu01CS7SgqA/learning-public-crop_675_1200/0/1695726146477?e=1697011200&v=beta&t=ogJxeAd5x-6QY3xk48mo03hM7hjAU1IBjsIB5jB8rZY
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-course-url]: https://www.linkedin.com/learning/domina-swift-nivel-1
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGJu01CS7SgqA/learning-public-crop_675_1200/0/1695726146477?e=2147483647&v=beta&t=KivLvVSNKERdzMc1KcsxGx17j-EB37RE_9A3kKOoJUw
+](https://media.licdn.com/dms/image/D560DAQGJu01CS7SgqA/learning-public-crop_675_1200/0/1695726146477?e=2147483647&v=beta&t=KivLvVSNKERdzMc1KcsxGx17j-EB37RE_9A3kKOoJUw)[1]: # (End of ES-Instruction ###############################################################################################)
